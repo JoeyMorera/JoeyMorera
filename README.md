@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">Web and Mobile Developer</h3>
 
 ###
 
