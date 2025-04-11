@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My Website:<br>https://jocsanmorera.com/</p>
+<p align="left">My Website:<br>https://dub.sh/jocsanmorera</p>
 
 ###
 
